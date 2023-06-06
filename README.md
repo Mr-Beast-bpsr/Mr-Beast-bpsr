@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Rana</h1>
 <h3 align="center">A passionate blockchain developer with frontend experience.</h3>
 
-- 🔭 I’m currently working on **DiFi**
+- 🔭 I’m currently working on **Solidiy(Decenterlized Finance)**
 
 - 🌱 I’m currently learning **Onchain staking algorithms.**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/Mr-Beast-bpsr](https://github.com/Mr-Beast-bpsr)
 
-- ⚡ Fun fact **"1" +1 is 1**
+- ⚡ Fun fact **"1" +1 is 11**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
